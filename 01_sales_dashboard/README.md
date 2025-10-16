@@ -4,7 +4,7 @@
 This project analyzes retail sales data to identify trends, top-performing products, and regional performance.
 
 ### 🧰 Tools Used
-- Excel (data cleaning)
+- Excel (data cleaning, analysis, and visualization)
 
 ### 📎 Files
 - `sales_data.xlsx` → cleaned dataset  
