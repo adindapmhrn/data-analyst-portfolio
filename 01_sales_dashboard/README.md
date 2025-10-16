@@ -8,7 +8,8 @@ This project analyzes retail sales data to identify trends, top-performing produ
 
 ### 📎 Files
 - `sales_data.xlsx` → cleaned dataset  
-- ![Dashboard Preview](dashboard.jpg)
+- `dashboard.jpg` → dashboard
+ ![Dashboard Preview](dashboard.jpg)
 
 ### 🔍 Key Insights
 - Region A generated the highest sales in Q4  
