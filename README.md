@@ -66,8 +66,8 @@ A fun personal project combining data analysis and music interest.
 I’m always open to learning opportunities, collaborations, or feedback!
 
 📧 **Email:** adindamhrn9@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/adinda-pm)  
-🐙 **GitHub:** [github.com/adindaputri](https://github.com/adindapmhrn)
+💼 **LinkedIn:** [linkedin.com/in/adinda-pm](https://www.linkedin.com/in/adinda-pm)  
+🐙 **GitHub:** [github.com/adindapmhrn](https://github.com/adindapmhrn)
 
 ---
 
