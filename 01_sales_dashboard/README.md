@@ -1,4 +1,4 @@
-# ☕️ Coffee Shop Sales Dashboard
+# ☕️ Coffee Shop Sales Dashboard (Microsoft Excel)
 
 ### 📊 Overview
 This project analyzes retail sales data to identify trends, top-performing products, and regional performance.
