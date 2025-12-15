@@ -39,6 +39,15 @@ SQL was used for joins and analysis, while Looker Studio was used to visualize s
 
 ---
 
+### 🧹 [Data Cleaning Project](./03_data_cleaning_project)
+**Tools:** SQL  
+**Skills:** Data cleaning, data standardization, handling missing values  
+
+Focused on cleaning a deliberately “dirty” sales dataset to simulate real-world data quality issues.  
+The project demonstrates systematic approaches to standardizing data, handling missing values, resolving inconsistencies, and preparing data for further analysis.
+
+---
+
 ## 🧰 Tools & Technologies
 - **Excel** – Data cleaning, pivot tables, basic analysis  
 - **SQL** – Querying, joins, aggregations, data cleaning  
