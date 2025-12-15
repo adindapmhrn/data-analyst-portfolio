@@ -23,7 +23,7 @@ I am continuously improving my skills in:
 
 ### ☕️ [Coffee Shop Sales Dashboard](./01_coffee_shop_sales)
 **Tools:** Microsoft Excel  
-**Skills:** Data cleaning, exploratory analysis, KPI tracking, dashboard design  
+**Skills:** Data exploratory analysis, KPI tracking, dashboard design  
 
 Analyzed coffee shop sales data to identify revenue trends, top-performing products, peak hours, and customer purchasing behavior.  
 The project focuses on business performance analysis using pivot tables and an interactive Excel dashboard.
@@ -32,7 +32,7 @@ The project focuses on business performance analysis using pivot tables and an i
 
 ### 📏 [Stationery Store Sales Dashboard](./02_stationery_store_sales)
 **Tools:** SQL, Looker Studio  
-**Skills:** Data cleaning, multi-table analysis, KPI tracking, dashboard design  
+**Skills:** SQL querying, table joins, KPI calculation, dashboard design  
 
 Performed analysis on a stationery store sales dataset consisting of multiple related tables.  
 SQL was used for joins and analysis, while Looker Studio was used to visualize sales performance, product profitability, and payment methods.
@@ -51,7 +51,6 @@ The project demonstrates systematic approaches to standardizing data, handling m
 ## 🧰 Tools & Technologies
 - **Excel** – Data cleaning, pivot tables, basic analysis  
 - **SQL** – Querying, joins, aggregations, data cleaning  
-- **Power BI** – Data modeling, interactive dashboards, storytelling  
 - **Looker Studio** – Dashboarding and KPI visualization  
 - **GitHub** – Project documentation and portfolio management  
 
