@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio – Adinda Putri Maharani
+#  Data Analyst Portfolio – Adinda Putri Maharani
 
 Welcome to my data analyst portfolio.  
 This repository contains a collection of end-to-end data analytics projects where I work with real-world style datasets to clean data, perform analysis, and present insights through dashboards.
@@ -7,7 +7,7 @@ The projects here demonstrate my ability to move from **raw data → analysis �
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 Hi, I’m **Adinda Putri Maharani**, an aspiring Data Analyst with a strong interest in transforming raw data into clear and actionable business insights.  
 I enjoy working with messy datasets, asking the right analytical questions, and building dashboards that support decision-making.
 
@@ -19,7 +19,7 @@ I am continuously improving my skills in:
 
 ---
 
-## 🗂 Portfolio Projects
+## Portfolio Projects
 
 ### ☕️ [Coffee Shop Sales Dashboard](./01_coffee_shop_sales)
 **Tools:** Microsoft Excel  
@@ -48,19 +48,29 @@ The project demonstrates systematic approaches to standardizing data, handling m
 
 ---
 
-## 🧰 Tools & Technologies
+### 🧸 [Maven Toys Store Sales Dashboard](./04_maven_toy_store_sales)
+**Tools:** Power BI  
+**Skills:** Data modeling, visualization, trend analysis, KPI tracking  
+
+Analyzed toy store sales data and built an interactive Power BI dashboard to track sales trends, top products, and overall performance.  
+The project emphasizes dashboard design and business insight communication using Power BI.
+
+---
+
+## Tools & Technologies
 - **Excel** – Data cleaning, pivot tables, basic analysis  
-- **SQL** – Querying, joins, aggregations, data cleaning  
+- **SQL** – Querying, joins, aggregations, data cleaning
+- **Power BI** – Data modeling, interactive dashboards, storytelling  
 - **Looker Studio** – Dashboarding and KPI visualization  
 - **GitHub** – Project documentation and portfolio management  
 
 ---
 
-## 📫 Contact
+## Contact
 I’m open to feedback, collaboration, and entry-level data analyst opportunities.
 
-- 📧 Email: **adindamhrn9@gmail.com**  
-- 💼 LinkedIn: **https://linkedin.com/in/adinda-pm**  
-- 🐙 GitHub: **https://github.com/adindapmhrn**
+- Email: **adindamhrn9@gmail.com**  
+- LinkedIn: **https://linkedin.com/in/adinda-pm**  
+- GitHub: **https://github.com/adindapmhrn**
 
 ---
