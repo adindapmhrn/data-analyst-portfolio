@@ -65,4 +65,9 @@ The dataset consists of four related tables representing a transactional sales s
 - **Shipping costs** accounted for **Rp 288 million**, a significant portion of total value  
 - **A4 Map** is the most frequently purchased product  
 - **Casio Calculator** generates the highest revenue among all products  
-- **Money Transfer** is the most commonly used payment method  
+- **Money Transfer** is the most commonly used payment method
+
+---
+
+## Live Dashboard
+https://lookerstudio.google.com/s/jkO2UIEPws4
