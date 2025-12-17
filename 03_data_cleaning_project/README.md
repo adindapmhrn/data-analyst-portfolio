@@ -7,7 +7,7 @@ The main goal of this project is to demonstrate practical SQL data-cleaning tech
 
 ---
 
-## Dataset Information
+## Dataset
 - **Dataset Name:** Cafe Sales – Dirty Data for Cleaning Training  
 - **Number of Rows:** 10,000  
 - **Number of Columns:** 8  
@@ -41,6 +41,9 @@ The dataset contains transactional sales data for a cafe, including menu items a
 
 - **`dirty_cafe_sales_queries.sql`**  
   SQL scripts used for data cleaning, transformation, and validation.
+
+- **`dirty_cafe_sales_cleaneddata.csv`**  
+  Final result of cleaned dataset.  
 
 ---
 
