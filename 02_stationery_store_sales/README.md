@@ -1,13 +1,13 @@
 # 📏 Stationery Store Sales Dashboard (SQL & Looker Studio)
 
-## 📊 Project Overview
+## Project Overview
 This project analyzes sales data from a stationery store to understand transaction performance, product profitability, and customer payment behavior. SQL was used to join multiple tables, perform exploratory analysis, and calculate key business metrics, while Looker Studio was used to build an interactive dashboard that summarizes key business metrics and insights.
 
 The dataset consists of four related tables: **Transactions**, **Status**, **Customer**, and **Payment**, simulating a real-world transactional database structure.
 
 ---
 
-## 📂 Dataset Structure
+## Dataset Structure
 The dataset consists of four related tables representing a transactional sales system:
 - **Transactions**  
   Product-level sales records, including quantity, price, and transaction value.  
@@ -28,7 +28,7 @@ The dataset consists of four related tables representing a transactional sales s
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 - **SQL**
   - Data exploration and analysis  
   - Joining multiple tables  
@@ -41,7 +41,7 @@ The dataset consists of four related tables representing a transactional sales s
 
 ---
 
-## 📎 Files Included
+## Files Included
 - **`TokoAlatTulis.xlsx`**  
   Raw dataset containing all tables.
 
@@ -53,12 +53,12 @@ The dataset consists of four related tables representing a transactional sales s
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 ![Dashboard Preview](stationery_store_dashboard.jpg)
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - The dataset contains **10,000 transactions** with a total of **30,049 units sold**  
 - **Grand total revenue (including shipping)** reached approximately **Rp 935 million**  
 - **Product-only sales revenue** totaled **Rp 647 million**  
@@ -66,8 +66,3 @@ The dataset consists of four related tables representing a transactional sales s
 - **A4 Map** is the most frequently purchased product  
 - **Casio Calculator** generates the highest revenue among all products  
 - **Money Transfer** is the most commonly used payment method  
-
----
-
-## ✅ Outcome
-This project demonstrates the use of SQL for multi-table analysis and Looker Studio for transforming query results into a clear, business-focused dashboard. It reflects a typical retail analytics workflow from raw data to decision-ready insights.
