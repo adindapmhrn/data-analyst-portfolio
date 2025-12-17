@@ -1,13 +1,13 @@
 # 🧹 Data Cleaning Project – Cafe Sales (SQL)
 
-## 📊 Project Overview
+## Project Overview
 This project focuses on cleaning a deliberately “dirty” cafe sales dataset to simulate common issues found in real-world data. Using SQL, I standardized values, handled missing and invalid entries, removed duplicates, and ensured data consistency so the dataset is ready for downstream analysis and reporting.
 
 The main goal of this project is to demonstrate practical SQL data-cleaning techniques that are commonly required before any meaningful analysis can be performed.
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 - **Dataset Name:** Cafe Sales – Dirty Data for Cleaning Training  
 - **Number of Rows:** 10,000  
 - **Number of Columns:** 8  
@@ -27,7 +27,7 @@ The dataset contains transactional sales data for a cafe, including menu items a
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 - **SQL**
   - Data cleaning
   - Data validation
@@ -35,7 +35,7 @@ The dataset contains transactional sales data for a cafe, including menu items a
 
 ---
 
-## 📎 Files Included
+## Files Included
 - **`dirty_cafe_sales_rawdata.xlsx`**  
   Raw dataset containing missing values, duplicates, inconsistent formats, and invalid entries.
 
@@ -44,7 +44,7 @@ The dataset contains transactional sales data for a cafe, including menu items a
 
 ---
 
-## 🔍 Data Cleaning Steps
+## Data Cleaning Steps
 The following steps were performed using SQL:
 - Standardized text values for consistency  
 - Ensured correct data types for numeric and date columns  
@@ -56,8 +56,3 @@ The following steps were performed using SQL:
   - Price  
   - Total Spent  
 - Validated pricing accuracy using known menu price references  
-
----
-
-## ✅ Outcome
-After cleaning, the dataset is consistent, reliable, and ready for analysis or visualization. This project demonstrates a realistic SQL data-cleaning workflow that mirrors common data quality challenges in real business environments.
