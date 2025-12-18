@@ -1,7 +1,7 @@
 SELECT * FROM dirty_cafe_sales;
 SELECT COUNT(*) FROM dirty_cafe_sales;
 
--- Replace ERROR and UNKNOWN to NULL
+-- Replace ERROR and NULL to UNKNOWN
 -- Payment Method
 SELECT Payment_Method,
 CASE WHEN Payment_Method IS NULL THEN 'UNKNOWN'
@@ -94,9 +94,9 @@ FROM dirty_cafe_sales
 GROUP BY Item
 ORDER BY 1;
 
+-- Based on Price List (from dataset information)  
 -- Use JOIN
--- Input Price_Per_Unit for Item that have not had price
-
+-- Input Price_Per_Unit
 WITH item_price AS
 (
 	SELECT Item, MAX(Price_Per_Unit) AS Price_Per_Unit
@@ -112,7 +112,7 @@ JOIN item_price ip
 ON t.Item = ip.Item
 WHERE t.Price_Per_Unit IS NULL;
 
--- Input Item name based on Price_Per_Unit list (from dataset information) 
+-- Input Item
 -- Because a few Items have same price, so only input the price that have unique value 
 WITH price_item AS (
 	SELECT Price_Per_Unit,
@@ -203,5 +203,6 @@ FROM dirty_cafe_sales
 GROUP BY Item, Price_Per_Unit
 HAVING Item <> 'UNKNOWN'
 ORDER BY Revenue DESC;
+
 
 SELECT * FROM dirty_cafe_sales
